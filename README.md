@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pradeep Yeole and I'm a Information Technology Engineer, from .Savitribai Phule Pune University.</h2>
+<h2 align="left">Hi 👋! My name is Pradeep Yeole and I'm a Information Technology Engineer, from Savitribai Phule Pune University.</h2>
 
 ###
 
