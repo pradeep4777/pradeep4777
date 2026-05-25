@@ -114,8 +114,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pradeep4777&style=for-the-badge&color=38BDF8" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/pradeep4777?style=for-the-badge&logo=github&label=Followers&color=0EA5E9" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/pradeep4777?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=1E40AF" alt="GitHub Stars" />
 </div>
 
 ---
