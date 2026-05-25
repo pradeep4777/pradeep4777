@@ -75,9 +75,9 @@
 
 <div align="center">
 
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pradeep4777&theme=tokyonight" alt="GitHub Stats" />
-
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pradeep4777&theme=tokyonight" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Public%20Repos-12-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0F172A?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Cloud%20Security-2563EB?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
 </div>
 
@@ -85,7 +85,7 @@
 
 <div align="center">
 
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep4777&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep4777&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&custom_title=Pradeep%20Yeole's%20Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
