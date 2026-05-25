@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pradeep%20Yeole&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Engineer%20%7C%20Cybersecurity%20%7C%20Cloud%20%7C%20Networking&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:38BDF8&height=220&section=header&text=Pradeep%20Yeole&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Engineer%20%7C%20Cybersecurity%20%7C%20Cloud%20%7C%20Networking&descAlignY=58&descSize=18" />
 
 <h2 align="center">Hi 👋, I'm Pradeep Yeole</h2>
 
