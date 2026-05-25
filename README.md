@@ -91,14 +91,6 @@
 
 ---
 
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep4777&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
 ### 🏆 GitHub Achievements
 
 <div align="center">
