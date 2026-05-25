@@ -71,12 +71,22 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep4777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep4777&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pradeep4777&theme=tokyonight" alt="GitHub Stats" />
+
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pradeep4777&theme=tokyonight" alt="Top Languages" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep4777&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+
 </div>
 
 ---
@@ -141,7 +151,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pradeep4777&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0F172A,100:020617&height=120&section=footer" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
