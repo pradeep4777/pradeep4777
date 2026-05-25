@@ -121,11 +121,11 @@
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/pradeep-yeole/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bwdv3jqh7Sy6wLxDheW0S2g%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
 
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:pradeepyeole239@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
   </a>
 </div>
