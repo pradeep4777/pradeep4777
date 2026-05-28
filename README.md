@@ -94,7 +94,9 @@
 ### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pradeep4777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pradeep4777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
