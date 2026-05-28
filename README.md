@@ -91,13 +91,22 @@
 
 ---
 
-### 🏆 GitHub Trophies
+---
+
+### 📂 Featured GitHub Work
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=pradeep4777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies" />
-  </a>
+
+| Repository | What It Shows |
+|---|---|
+| [cloud-security-learning-journey](https://github.com/pradeep4777/cloud-security-learning-journey) | Daily cloud security learning, networking notes, AWS basics, and practical documentation |
+| GitHub Profile README | Personal technical profile, skills presentation, and learning journey documentation |
+| Security Notes | Cybersecurity concepts, vulnerability assessment notes, and application security learning |
+| Python Practice | Automation scripts, basic programming practice, and problem-solving exercises |
+
 </div>
+
+---
 
 ---
 
