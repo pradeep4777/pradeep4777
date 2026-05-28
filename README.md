@@ -91,15 +91,12 @@
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏆 GitHub Trophies
 
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=pradeep4777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-  <img src="https://img.shields.io/badge/GitHub%20Profile-Active-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Cloud%20Security-2563EB?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0F172A?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Projects-12%20Public%20Repos-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=pradeep4777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
